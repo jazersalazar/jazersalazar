@@ -1,6 +1,5 @@
 # Hello, Kumusta!
 
-## About Me
 I'm Jazer Salazar, Software developer from <b>Cavite, Philippines</b>.
 
 <a href="https://medium.com/@jazersalazar" target="_blank">
