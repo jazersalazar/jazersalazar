@@ -38,7 +38,6 @@ I'm Jazer Salazar, a software developer from <b>Cavite, Philippines</b>.
 ## Coding Activity
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazersalazar&hide=hlsl,shaderlab" align="left" />
 <img src="https://github-readme-stats.vercel.app/api?username=jazersalazar&count_private=true&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jazersalazar&layout=compact" />
 
 ## Open Source Projects
 <table>
