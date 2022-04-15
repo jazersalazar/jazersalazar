@@ -36,8 +36,9 @@ I'm Jazer Salazar, a software developer from <b>Cavite, Philippines</b>.
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /> <img alt="React JS" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" /> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 
 ## Coding Activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazersalazar&hide=hlsl,shaderlab" align="left" />
-<img src="https://github-readme-stats.vercel.app/api?username=jazersalazar&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jazersalazar&count_private=true&show_icons=true" align="left" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazersalazar&hide=hlsl,shaderlab" />
 
 ## Open Source Projects
 <table>
